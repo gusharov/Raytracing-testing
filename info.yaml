@@ -10,7 +10,7 @@ project:
   # A combinational 16x16 array multiplier costs ~1900 gates and easily fits in a 1x1 tile.
   tiles: "1x1"          
 
-  top_module:  "tt_um_gusharov_mul16"
+  top_module:  "tt_um_example"
 
   source_files:
     - "project.v"
